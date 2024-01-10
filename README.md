@@ -1,6 +1,6 @@
 # Website - salary-calculator
 
-![salary-calculator]bartoszsmorawski.github.io/salary-calculator/
+![salary-calculator]https://raw.githubusercontent.com/bartoszsmorawski/salary-calculator/main/image/salary-calculator.png
 
 ## Demo:
 Below is a link that takes you directly to the cantor website.
